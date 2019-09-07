@@ -3,6 +3,8 @@ The official source for the X15 CM2350 emissions demandate delete.
 
 *** This is the official Vortex Delete for the X15 CM2350 by zyNoT. ***
 
+*** THIS OVERLAY IS INTENDED FOR USE ON BGT CM2350 ECMs ONLY, DO NOT USE ON BDR OR ANY OTHER CM2350 MODULE!!! ***
+
 WARNING! - These actions and steps should not be performed in countries that have laws against altering engine emissions!
 
 WARNING! - This is only an example of how to go about editing the ECU and is not a final product or solution. Use at your own risk!!!
