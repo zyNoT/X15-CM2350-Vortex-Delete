@@ -5,6 +5,8 @@ The official source for the X15 CM2350 emissions demandate delete.
 
 *** THIS OVERLAY IS INTENDED FOR USE ON BGT CM2350 ECMs ONLY, DO NOT USE ON BDR OR ANY OTHER CM2350 MODULE!!! ***
 
+*** THIS IS NOT THE LATEST RELEASE OF THIS OVERLAY, THIS IS JUST A STARTING POINT FOR THOSE WILLING TO CREATE THEIR OWN! MANY CHANGES HAVE TAKEN PLACE SINCE THIS OVERLAY VERSION. THESE CHANGES INCLUDE: MISSING EMISSIONS PARAMETERS, CHANGES TO CHL, CHANGES TO TORQUE LOAD TO FUEL, CHANGES TO TURBO ACTUATION, CHANGES TO POST FUELING, CHANGES TO OFC, ETC. ETC. ***
+
 WARNING! - These actions and steps should not be performed in countries that have laws against altering engine emissions!
 
 WARNING! - This is only an example of how to go about editing the ECU and is not a final product or solution. Use at your own risk!!!
